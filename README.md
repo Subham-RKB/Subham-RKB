@@ -20,5 +20,5 @@
 ![DO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subham-RKB&theme=bluewhite&show_icons=true)
 
 ### Connect with me!
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/subham-chapagain-7873221b1/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subham-chapagain-7873221b1/) 
 
