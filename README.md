@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hey there!👋&nbsp; I an Subham Chapagain.</h1>
+<h4 align="center">Wannabe Android Developer.</h3>
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/61343268?v=4" alt="Subham Chapagain" /></p>
 
-<!--
-**Subham-RKB/Subham-RKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### You can find me doing 
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/-dart-orange?style=for-the-badge">   <img src="https://img.shields.io/badge/-Flutter-red?style=for-the-badge">  <img src="https://img.shields.io/badge/-FIGMA-brightgreen?style=for-the-badge">   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on
+
+<img src="https://img.shields.io/badge/-Data structures-blueviolet?style=for-the-badge">          <img src="https://img.shields.io/badge/-Algorithms-blue?style=for-the-badge">  
+
+### What I want to learn
+
+<img src="https://img.shields.io/badge/-REACT-ffae42?style=for-the-badge">      <img src="https://img.shields.io/badge/-nodejs-%23FFDD33?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-javaScript-blueviolet?style=for-the-badge">
+
+<br>
+
+![DO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subham-RKB&theme=bluewhite&show_icons=true)
+
+### Connect with me!
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/subham-chapagain-7873221b1/) 
+
