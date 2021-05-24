@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!👋&nbsp; I an Subham Chapagain.</h1>
+<h1 align="center">Hey there!👋&nbsp; I am Subham Chapagain.</h1>
 <h4 align="center">Wannabe Android Developer.</h3>
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/61343268?v=4" alt="Subham Chapagain" /></p>
 
